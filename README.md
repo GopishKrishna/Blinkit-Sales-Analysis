@@ -1,5 +1,7 @@
 # Blinkit Sales Analysis
+## Dashboard Preview
 
+![Blinkit Sales Analysis Dashboard](Screenshot%202026-08-26%20160839.png)
 ## Project Overview
 
 Blinkit Sales Analysis is a **Power BI dashboard project** developed to analyze sales performance across different products and outlet characteristics. The dashboard provides an interactive view of sales, product categories, outlet types, outlet sizes, outlet locations, and establishment years.
